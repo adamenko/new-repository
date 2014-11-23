@@ -1,4 +1,4 @@
 new-repository
 ==============
 
-this is new repository
+description was updated
